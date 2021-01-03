@@ -14,6 +14,4 @@ public class JavaPerfDemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JavaPerfDemoApplication.class, args);
 	}
-
-
 }
